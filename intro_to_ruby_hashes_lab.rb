@@ -57,6 +57,21 @@ def monopoly_with_fourth_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   fourth_hash = monopoly_with_third_tier
-  fourth_hash[:railroads][:names][:reading_railroad]
+  
+  fourth_hash[:railroads][:names][:reading_railroad] = {
+    
+  }
+  
+  fourth_hash[:railroads][:names][:pennsylvania_railroad] = {
+    
+  }
+  
+  fourth_hash[:railroads][:names][:b_and_o_railroad] = {
+    
+  }
+  
+  fourth_hash[:railroads][:names][:shortline_railroad] = {
+    
+  }
 
 end
