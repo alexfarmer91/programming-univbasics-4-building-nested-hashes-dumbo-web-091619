@@ -14,6 +14,7 @@ def monopoly_with_second_tier
   
   second_hash = base_hash
   second_hash[:railroads] = {:pieces => 4}
+  second_hash
 end
 
 def monopoly_with_third_tier
