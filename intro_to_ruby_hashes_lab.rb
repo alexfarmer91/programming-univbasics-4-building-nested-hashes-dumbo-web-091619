@@ -73,5 +73,5 @@ def monopoly_with_fourth_tier
   fourth_hash[:railroads][:names][:shortline_railroad] = {
     "mortgage_value"=>"$800"
   }
-
+ fourth_hash
 end
