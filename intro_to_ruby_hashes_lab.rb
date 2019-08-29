@@ -23,8 +23,8 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   third_hash = monopoly_with_second_tier
-  third_hash[:railroads][]
-  
+  third_hash[:railroads][:rent_in_dollars] = {}
+  third hash
 end
 
 def monopoly_with_fourth_tier
